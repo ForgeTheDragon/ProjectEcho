@@ -1,0 +1,21 @@
+{
+	"pack": {
+		"min_format": [75, 0],
+		"max_format": [75, 0],
+		"description": [
+			{"text": "Assets for ", "color": "#D5B7F0"},
+			{"text": "P", "color": "#F39A36"},
+			{"text": "r", "color": "#EB9641"},
+			{"text": "o", "color": "#E3924C"},
+			{"text": "j", "color": "#DB8E57"},
+			{"text": "e", "color": "#D38A62"},
+			{"text": "c", "color": "#CB866D"},
+			{"text": "t ", "color": "#C38278"},
+			{"text": "E", "color": "#B06FA0"},
+			{"text": "c", "color": "#A869AD"},
+			{"text": "h", "color": "#A063BA"},
+			{"text": "o ", "color": "#985DC7"},
+			{"text": "Datapack", "color": "#D5B7F0"}
+		]
+	}
+}
