@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "entries": [
+	  {
+        "threshold": 1651.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "project_echo:item/enderite_pickaxe"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_pickaxe"
+    }
+  }
+}
