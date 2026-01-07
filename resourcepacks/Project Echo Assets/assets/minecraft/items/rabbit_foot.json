@@ -3,11 +3,25 @@
     "type": "minecraft:range_dispatch",
     "property": "minecraft:custom_model_data",
     "entries": [
-      {
-        "threshold": 1.0,
+	  {
+        "threshold": 1651.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/flame_core_model"
+          "model": "project_echo:item/project_echo_icon"
+        }
+      },
+      {
+        "threshold": 1652.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "project_echo:item/flame_core"
+        }
+      },
+	  {
+        "threshold": 1653.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "project_echo:item/music_disc_terminus"
         }
       }
     ],
