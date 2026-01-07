@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "project_echo:item/ender_elytra"
+  },
+  "asset_id": "project_echo:ender_elytra"
+}

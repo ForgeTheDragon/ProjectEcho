@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "project_echo:ender_elytra",
+		"use_player_texture": true
+      }
+    ]
+  }
+}

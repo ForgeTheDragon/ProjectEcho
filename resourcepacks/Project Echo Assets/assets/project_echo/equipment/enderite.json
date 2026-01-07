@@ -1,0 +1,24 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "project_echo:enderite"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "project_echo:enderite"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "project_echo:enderite"
+      }
+    ],
+    "nautilus_body": [
+      {
+        "texture": "project_echo:enderite"
+      }
+    ]
+  }
+}
