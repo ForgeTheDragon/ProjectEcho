@@ -1,0 +1,1 @@
+give @s rabbit_foot[custom_name=[{"translate":"item.project_echo.project_echo_icon","italic":false,"color":"#ff9035"}],custom_data={"project_echo_icon":1b},custom_model_data={floats:[1651f]}]

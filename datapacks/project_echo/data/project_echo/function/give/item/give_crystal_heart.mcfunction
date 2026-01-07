@@ -1,0 +1,1 @@
+give @s golden_apple[custom_name=[{"translate":"item.project_echo.crystal_heart","italic":false,"color":"#ff2757"}],lore=[{"translate":"description.project_echo.crystal_heart","italic":false,"color":"#fd5f83"}],custom_data={"crystal_heart":1b},custom_model_data={floats:[1651f]}]

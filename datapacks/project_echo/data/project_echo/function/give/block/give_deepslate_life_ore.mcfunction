@@ -1,0 +1,1 @@
+give @s deepslate_diamond_ore[custom_name=[{"text":"Жизненноносный глубинный сланец","italic":false}],custom_data={"deepslate_life_ore":1b},custom_model_data={floats:[1f]}]

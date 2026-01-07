@@ -1,0 +1,1 @@
+# give @s rabbit_foot[custom_name=[{"translate":"item.project_echo.music_disc_terminus","italic":false}],rarity=rare,custom_data={"music_disc_terminus":1b},custom_model_data={floats:[1653f]},minecraft:jukebox_playable="project_echo:terminus"]

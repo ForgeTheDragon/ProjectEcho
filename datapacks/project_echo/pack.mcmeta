@@ -1,0 +1,33 @@
+{
+	"pack": {
+		"min_format": [94, 1],
+		"max_format": [94, 1],
+		"description": [
+			{"text": "E", "color": "#F55A52"},
+			{"text": "x", "color": "#F76056"},
+			{"text": "t", "color": "#F9665A"},
+			{"text": "e", "color": "#FB6C5E"},
+			{"text": "n", "color": "#FD7262"},
+			{"text": "d", "color": "#FF7866"},
+			{"text": "e", "color": "#FF7E6A"},
+			{"text": "d ", "color": "#FF846E"},
+			{"text": "Vanilla gameplay", "color": "#D5B7F0"},
+			"\n",
+			{"text": "By ", "color": "#D5B7F0"},
+			{"text": "F", "color": "#FF8A4A"},
+			{"text": "o", "color": "#FF9150"},
+			{"text": "r", "color": "#FF9856"},
+			{"text": "g", "color": "#FF9F5C"},
+			{"text": "e", "color": "#FFA662"},
+			{"text": "T", "color": "#FFAD68"},
+			{"text": "h", "color": "#FFB46E"},
+			{"text": "e", "color": "#FFBB74"},
+			{"text": "D", "color": "#FFC27A"},
+			{"text": "r", "color": "#FFC980"},
+			{"text": "a", "color": "#FFD086"},
+			{"text": "g", "color": "#FFD78C"},
+			{"text": "o", "color": "#FFDE92"},
+			{"text": "n", "color": "#FFE598"}
+		]
+	}
+}

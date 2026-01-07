@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "using_crystal_heart": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:golden_apple",
+          "components": {
+            "minecraft:custom_data": {
+              "crystal_heart": true
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "using_crystal_heart"
+    ]
+  ],
+  "rewards": {
+    "function": "project_echo:crystal_heart"
+  }
+}
